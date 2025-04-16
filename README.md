@@ -17,7 +17,7 @@ A mythological-futuristic digital asset for creators. Inspired by the Chakravyuh
 3. Deploy via Hardhat
 
 ## License
-MIT © 2025 [Your Name]
+MIT © 2025 [Abhishek Raj]
 
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.21;

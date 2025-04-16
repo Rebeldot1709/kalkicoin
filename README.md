@@ -2,6 +2,23 @@
 This is the project to mine Currency
 This is the initiative for creating and mining digital currency
 This currency follow the Chakravyuha system
+# Kalki Coin 🔱
+A mythological-futuristic digital asset for creators. Inspired by the Chakravyuha Protocol. Built with Solidity.
+
+## Features
+- 7-layer security based on rotating digital gates.
+- Creator-first tokenomics.
+- Adaptive evolution via Sudarshan Trigger.
+- Chakra-based logic flow.
+
+## Getting Started
+1. Clone the repo
+2. Install dependencies
+3. Deploy via Hardhat
+
+## License
+MIT © 2025 [Your Name]
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.21;
 
